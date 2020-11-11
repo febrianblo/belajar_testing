@@ -1,0 +1,35 @@
+{
+    "users":[
+        {
+            "id":1,
+            "first_name": "Robert",
+            "last_name": "schwartz",
+            "email": "rob23@gmail.com"
+        },
+        {
+            "id":2,
+            "first_name": "Lucy",
+            "last_name": "Blanner",
+            "email": "Luvy23@gmail.com"
+        },
+        {
+            "id":3,
+            "first_name": "Anna",
+            "last_name": "ninini",
+            "email": "anani@gmail.com"
+        },
+        {
+            "id":4,
+            "first_name": "Robert",
+            "last_name": "india",
+            "email": "indianan@gmail.com"
+        },
+        
+        {
+            "id":5,
+            "first_name": "Roger",
+            "last_name": "Bcon",
+            "email": "baconiani@gmail.com"
+        }
+    ]
+}
